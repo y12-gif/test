@@ -3,18 +3,18 @@
         {
             "name": "P02_bootloader_hal",
             "includePath": [
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\Core\\Inc",
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\Drivers\\CMSIS\\Include",
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\MDK-ARM\\interface",
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\MDK-ARM\\application",
+                "c:\\Users\\lenovo\\Desktop\\test\\Core\\Inc",
+                "c:\\Users\\lenovo\\Desktop\\test\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "c:\\Users\\lenovo\\Desktop\\test\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\lenovo\\Desktop\\test\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "c:\\Users\\lenovo\\Desktop\\test\\Drivers\\CMSIS\\Include",
+                "c:\\Users\\lenovo\\Desktop\\test\\MDK-ARM\\interface",
+                "c:\\Users\\lenovo\\Desktop\\test\\MDK-ARM\\application",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\MDK-ARM",
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\Core\\Src",
-                "d:\\A尚硅谷BootLoader\\3.代码\\代码\\01_bootloader演示案例\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "c:\\Users\\lenovo\\Desktop\\test\\MDK-ARM",
+                "c:\\Users\\lenovo\\Desktop\\test\\Core\\Src",
+                "c:\\Users\\lenovo\\Desktop\\test\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
