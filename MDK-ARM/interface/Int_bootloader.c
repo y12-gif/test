@@ -252,7 +252,7 @@ uint8_t Int_bootloader_jump_to_app(void)
  * @param page_addr
  * @param pages
  */
-
+//1223
 void Int_bootloader_erase_flash(uint32_t page_addr, uint16_t pages)
 {
     // ½âËøflash
