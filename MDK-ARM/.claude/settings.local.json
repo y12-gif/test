@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/A尚硅谷BootLoader/3.代码/代码/01_bootloader演示案例/**)",
+      "Bash(iconv -f GBK -t UTF-8 MDK-ARM/application/App_bootloader.c)"
+    ]
+  }
+}

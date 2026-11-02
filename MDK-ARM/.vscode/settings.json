@@ -1,0 +1,10 @@
+{
+    "files.encoding": "gbk",
+    "C_Cpp.doxygen.generatedStyle": "/**",
+    "files.associations": {
+        "int_bootloader.h": "c",
+        "usart.h": "c",
+        "algorithm": "c",
+        "app_bootloader.h": "c"
+    }
+}
